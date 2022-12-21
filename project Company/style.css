@@ -1,0 +1,519 @@
+.-LeadGenerationForm {
+    width: 640px;
+    height: 1715px;
+    flex-grow: 0;
+    padding: 0 0 16px;
+    background-color: rgb(103, 94, 94);
+  }
+  .Rectangle-3463994 {
+    width: 640px;
+    height: 80px;
+    padding: 18px 18px 18px 20px;
+    background-color: var(--disabled-chips-bg);
+  }
+  .Rectangle-3464056 {
+    width: 640px;
+    height: 85px;
+    margin: 80px 0 10px;
+    padding: 12px 20px;
+    background-color: #203566;
+  }
+  .Construct-Lead-Generation-Form {
+    width: 348px;
+    height: 40px;
+    flex-grow: 0;
+    font-family: Manrope;
+    font-size: 22px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+  .Construct-Lead-Generation-Form {
+    width: 348px;
+    height: 40px;
+    flex-grow: 0;
+    font-family: Manrope;
+    font-size: 22px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+  .Rectangle-3464094 {
+  width: 620px;
+  height: 1356px;
+  margin: 10px 10px 29px;
+  padding: 28px 0 0;
+  background-color: #ececec;
+}
+.Please-fill-the-details-below {
+  width: 237px;
+  height: 25px;
+  margin: 0 53px 24px 25px;
+  font-family: Manrope;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+.Subtract {
+  width: 570px;
+  height: 60px;
+  margin: 34px 25px 17px;
+  padding: 24px 447px 17px 30px;
+  border: solid 1px #e1e1e1;
+  background-color: #fff;
+}
+.Name {
+  width: 33px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+.Contact-name {
+  width: 93px;
+  height: 19px;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}.Subtract {
+  width: 570px;
+  height: 60px;
+  margin: 27px 25px 17px;
+  padding: 24px 439px 17px 30px;
+  border: solid 1px #e1e1e1;
+  background-color: #fff;
+}
+.Enter-mobile-no {
+  width: 101px;
+  height: 19px;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}.Phone {
+  width: 36px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+.Email {
+  width: 30px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+.Enter-email {
+  width: 72px;
+  height: 19px;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}.Enter-company-name {
+  width: 136px;
+  height: 19px;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}.Registered-company {
+  width: 114px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}.TMT-brand {
+  width: 59px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}.select {
+  width: 42px;
+  height: 19px;
+  margin: 0 175px 0 0;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}.TMT-Monthly-consumption {
+  width: 148px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}.Enter-in-mt {
+  width: 71px;
+  height: 19px;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}
+
+.Enter-in-mt .text-style-1 {
+  font-weight: bold;
+}.Vector {
+  width: 16px;
+  height: 8px;
+  flex-grow: 0;
+  margin: 2px 0 9px 175px;
+  transform: rotate(-180deg);
+  background-color: #979797;
+}.Cement-brand {
+  width: 79px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}.select {
+  width: 42px;
+  height: 19px;
+  margin: 0 175px 0 0;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}.Enter-in-cubic-meter {
+  width: 133px;
+  height: 19px;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}
+
+.Enter-in-cubic-meter .text-style-1 {
+  font-weight: normal;
+}.RMC-Monthly-consumption {
+  width: 150px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}.select {
+  width: 42px;
+  height: 19px;
+  margin: 0 175px 0 0;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}.City {
+  width: 23px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}.Enter-pincode {
+  width: 93px;
+  height: 19px;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}.Pincode {
+  width: 45px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}.Micro-market {
+  width: 73px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}.Enter {
+  width: 35px;
+  height: 19px;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}.Google-Coordinates {
+  width: 111px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}.Enter-address {
+  width: 90px;
+  height: 19px;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}address {
+  width: 46px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}.Enter-FOS-name {
+  width: 103px;
+  height: 19px;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}.FOS-name {
+  width: 56px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}.Rectangle-3464095 {
+  width: 620px;
+  height: 309px;
+  margin: 30px 0 0;
+  padding: 26px 25px 40px;
+  background-color: #e2e2e2;
+}.Subtract {
+  width: 570px;
+  height: 60px;
+  margin: 10px 0 17px;
+  padding: 24px 466px 17px 30px;
+  border: solid 1px #e1e1e1;
+  background-color: #fff;
+}.Enter-name {
+  width: 74px;
+  height: 19px;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}.Site-name {
+  width: 56px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}.Attach-photo {
+  width: 73px;
+  height: 16px;
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}.photo-1 {
+  width: 47px;
+  height: 19px;
+  margin: 4px 445.8px 0 0;
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a1a1a1;
+}
+.Frame-35798 {
+  width: 181px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+  margin: 40px 389px 0 0;
+  padding: 13px 62px 13px 64px;
+  border-radius: 6px;
+  background-color: #203566;
+}.Submit {
+  width: 55px;
+  height: 20px;
+  flex-grow: 0;
+  font-family: Manrope;
+  font-size: 16px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
